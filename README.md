@@ -6,4 +6,4 @@ This repository will contain code for reproducing different embedding and retrie
 [Language Models are Universal Embedders](https://arxiv.org/abs/2310.08232) [Arxiv]
 
 We will release the Udever model code and checkpoints on the [ModelScope](https://www.modelscope.cn/) and [HuggingFace](https://huggingface.co/models).
-The code used to train these checkpoints can be downloaded at this [Google Drive](https://drive.google.com/file/d/1CI6zbRSKKMRGH2WpSselb68aI9MUwtmF/view?usp=sharing) link.
+The **code used to train these checkpoints** can be downloaded at this [Google Drive](https://drive.google.com/file/d/1CI6zbRSKKMRGH2WpSselb68aI9MUwtmF/view?usp=sharing) link.
